@@ -11,7 +11,7 @@
 
 - Aula 04: Ambientes Virtuais e Pacotes;
 
-[Teste](https://docs.python.org/pt-br/3/tutorial/venv.html)
+(Teste)[https://docs.python.org/pt-br/3/tutorial/venv.html]
 
 https://docs.python.org/pt-br/3/library/venv.html
 
