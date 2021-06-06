@@ -2,6 +2,8 @@
 
 ## Expert Julia Hellen Ferreira
 
+### Objetivo do Curso: Saber instalar e configurar o ambiente virtual do Python 3.7
+
 ### Dica de leitura:
 
 - Aula 01: Introdução
