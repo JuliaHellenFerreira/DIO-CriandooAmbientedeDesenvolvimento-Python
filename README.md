@@ -10,6 +10,10 @@
 
 - Aula 03: Biblioteca Padrão;
 
+Python/Bibliotecas padrão -> https://pt.wikibooks.org/wiki/Python/Bibliotecas_padr%C3%A3o
+
+A Biblioteca Padrão do Python -> https://docs.python.org/pt-br/3.7/library/
+
 - Aula 04: Ambientes Virtuais e Pacotes;
 
 venv— Criação de ambientes virtuais -> https://docs.python.org/pt-br/3/library/venv.html
