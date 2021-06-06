@@ -8,6 +8,8 @@
 
 - Aula 02: Instalação do Python 3.7;
 
+Instalação -> https://www.python.org/downloads/windows/
+
 - Aula 03: Biblioteca Padrão;
 
 Python/Bibliotecas padrão -> https://pt.wikibooks.org/wiki/Python/Bibliotecas_padr%C3%A3o
