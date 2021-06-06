@@ -2,7 +2,8 @@
 
 ## Expert Julia Hellen Ferreira
 
-### Site para leitua:
+### Dica de leitura:
+
 - Aula 01: Introdução
 
 - Aula 02: Instalação do Python 3.7;
@@ -11,9 +12,9 @@
 
 - Aula 04: Ambientes Virtuais e Pacotes;
 
-(Teste)[https://docs.python.org/pt-br/3/tutorial/venv.html]
+venv— Criação de ambientes virtuais -> https://docs.python.org/pt-br/3/library/venv.html
 
-https://docs.python.org/pt-br/3/library/venv.html
+Ambientes virtuais e pacotes -> https://docs.python.org/pt-br/3/tutorial/venv.html
 
 - Aula 05: Configurações básicas.
 
