@@ -25,6 +25,7 @@ venv— Criação de ambientes virtuais -> https://docs.python.org/pt-br/3/libra
 Ambientes virtuais e pacotes -> https://docs.python.org/pt-br/3/tutorial/venv.html
 
 - Aula 05: Configurações básicas.
-- https://www.treinaweb.com.br/blog/criando-ambientes-virtuais-para-projetos-python-com-o-virtualenv
+https://www.treinaweb.com.br/blog/criando-ambientes-virtuais-para-projetos-python-com-o-virtualenv
+https://pythonacademy.com.br/blog/python-e-virtualenv-como-programar-em-ambientes-virtuais
 
 
