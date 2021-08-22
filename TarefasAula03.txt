@@ -1,0 +1,22 @@
+Expert: Julia Hellen Ferreira
+Curso: Criando o ambiente de desenvolvimento
+Tarefas - Aula 03
+
+Tarefas - Nao esqueca de importar os modulos!
+
+1) Renato quer sortear 5 numero de 1 a 1000. Voce foi contratado para fazer este sorteio, quais foram os numeros encontrados?
+
+2) A professora pediu os alunos para fazer o fatorial de 5. Qual o valor encontrado?
+
+3) Maria e Joao sao irmaos e gosatriam de saber a diferenca em dias da idade deles. Joao nasceu dia 2/7/1991 e Maria 2/7/1999. Qual a diferenca?
+
+Solução - Comandos:
+
+1) random.sample(range(1000), 5)
+
+2) math.factorial(5)
+
+3) maria = date(1999, 7, 2)
+joao = date(1991, 7, 2)
+diferenca = joao - maria
+diferenca

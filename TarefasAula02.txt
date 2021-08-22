@@ -1,0 +1,27 @@
+Expert: Julia Hellen Ferreira
+Curso: Criando o ambiente de desenvolvimento
+Tarefas - Aula 02
+
+Tarefas
+
+1) Calcule sua idade no Python Interativo.
+
+2) Calcule sua idade somada com o mês que nasceu.
+
+3) Crie uma variável com o ano que estamos e chame de "ano".
+
+4) Multiplique a variável "ano" por 5.
+
+5) Use a função print() para escrever uma apresentação sobre você.
+
+Solução - Comandos:
+
+1) 2021 - 1997
+
+2)  24 + 03
+
+3) ano = 2021
+
+4) ano*5
+
+5) print("Olá, sou Julia Hellen e tenho 24 anos. Gosto muito de Python.")
