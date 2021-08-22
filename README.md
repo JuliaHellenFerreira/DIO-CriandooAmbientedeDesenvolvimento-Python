@@ -8,7 +8,7 @@
 
 - Aula 01: Introdução
 
-- Aula 02: Instalação do Python 3;
+- Aula 02: Instalação do Python 3 - Tarefas no repositório.
 
 Instalação -> https://www.python.org/downloads/windows/
 
