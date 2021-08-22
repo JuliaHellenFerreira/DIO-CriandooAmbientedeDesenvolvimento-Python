@@ -6,7 +6,7 @@
 
 ### Dica de leitura:
 
-- Aula 01: Introdução
+- Aula 01: Introdução - Dica: https://python.org.br/
 
 - Aula 02: Instalação do Python 3 - Tarefas no repositório.
 
