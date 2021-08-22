@@ -2,13 +2,13 @@
 
 ## Expert Julia Hellen Ferreira
 
-### Objetivo do Curso: Saber instalar e configurar o ambiente virtual do Python 3.7
+### Objetivo do Curso: Saber instalar e configurar o ambiente virtual do Python 3
 
 ### Dica de leitura:
 
 - Aula 01: Introdução
 
-- Aula 02: Instalação do Python 3.7;
+- Aula 02: Instalação do Python 3;
 
 Instalação -> https://www.python.org/downloads/windows/
 
