@@ -21,13 +21,11 @@ A Biblioteca Padrão do Python -> https://docs.python.org/pt-br/3.7/library/
 Um breve passeio pela biblioteca padrão -> https://docs.python.org/pt-br/3/tutorial/stdlib.html
 - Aula 04: Ambientes Virtuais e Pacotes;
 
-venv— Criação de ambientes virtuais -> https://docs.python.org/pt-br/3/library/venv.html
+Instalar o pip -> https://pt.stackoverflow.com/questions/239047/como-instalar-o-pip-no-windows-10
 
-Ambientes virtuais e pacotes -> https://docs.python.org/pt-br/3/tutorial/venv.html
+Diretório -> https://www.delftstack.com/pt/tutorial/python-3-basic-tutorial/python-file-directory-operation/
 
-https://pythonacademy.com.br/blog/python-e-virtualenv-como-programar-em-ambientes-virtuais
-
-https://www.treinaweb.com.br/blog/como-instalar-um-pacote-com-pip-e-utiliza-lo-em-seu-projeto
+Como usar e criar Virtualenv no Windows 10 -> https://ansistemas.com/como-usar-criar-virtualenv-windows10/
 
 - Aula 05: Configurações básicas.
 https://www.treinaweb.com.br/blog/criando-ambientes-virtuais-para-projetos-python-com-o-virtualenv
