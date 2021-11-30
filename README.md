@@ -4,9 +4,19 @@
 
 ### Objetivo do Curso: Saber instalar e configurar o ambiente virtual do Python 3
 
+### Descrição das Aulas:
+
+- Aula 01: Em nossa primeira aula, falaremos sobre os objetivos do curso, quais tópicos iremos estudar, um breve resumo da história e áreas do conhecimento que podemos usar a linguagem Ptyhon.
+
+- Aula 02: Nesta aula, iremos aprender a instalar o Python 3 diretamente do site oficial. Além disso, vamos conhecer o Python Interativo e teremos exercícios para praticar.
+
+- Aula 03: Na aula 3, iremos explorar e aprofundar nas bibliotecas padrões do Python e praticar tudo o quê aprendemos até aqui. 
+
+- Aula 04: Na nossa última aula, vamos conhecer os comandos básicos do prompt de comando (CMD), criar o Ambiente Virtual e instalar pacotes através do pip. 
+
 ### Dica de leitura:
 
-- Aula 01: Introdução - Dica: https://python.org.br/
+- Aula 01:  Introdução - Dica: https://python.org.br/
 
 - Aula 02: Instalação do Python 3 - Tarefas no repositório.
 
@@ -26,9 +36,5 @@ Instalar o pip -> https://pt.stackoverflow.com/questions/239047/como-instalar-o-
 Diretório -> https://www.delftstack.com/pt/tutorial/python-3-basic-tutorial/python-file-directory-operation/
 
 Como usar e criar Virtualenv no Windows 10 -> https://ansistemas.com/como-usar-criar-virtualenv-windows10/
-
-- Aula 05: Configurações básicas.
-https://www.treinaweb.com.br/blog/criando-ambientes-virtuais-para-projetos-python-com-o-virtualenv
-https://pythonacademy.com.br/blog/python-e-virtualenv-como-programar-em-ambientes-virtuais
 
 
