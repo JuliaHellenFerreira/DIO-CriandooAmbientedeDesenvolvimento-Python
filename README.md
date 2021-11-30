@@ -29,7 +29,10 @@ Python/Bibliotecas padrão -> https://pt.wikibooks.org/wiki/Python/Bibliotecas_p
 A Biblioteca Padrão do Python -> https://docs.python.org/pt-br/3.7/library/
 
 Um breve passeio pela biblioteca padrão -> https://docs.python.org/pt-br/3/tutorial/stdlib.html
+
 - Aula 04: Ambientes Virtuais e Pacotes;
+
+Ambiente Virtual: https://docs.python.org/pt-br/3/library/venv.html
 
 Instalar o pip -> https://pt.stackoverflow.com/questions/239047/como-instalar-o-pip-no-windows-10
 
