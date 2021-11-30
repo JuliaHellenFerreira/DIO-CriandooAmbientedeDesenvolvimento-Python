@@ -1,0 +1,23 @@
+Expert: Julia Hellen Ferreira
+Curso: Criando o ambiente de desenvolvimento
+Aula 04
+
+Notas de aulas - Comandos utilizados:
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+No CMD digite:
+
+dir
+cd Documents
+md CursoDIO_Python
+cd Curso_Python
+python
+exit()
+python3 -m venv tutorial-env
+tutorial-env\Scripts\activate.bat
+python -m pip install pandas
+python -m pip install SciPy
+pip uninstall SciPy
+pip show pandas
+pip list
+deactivate
