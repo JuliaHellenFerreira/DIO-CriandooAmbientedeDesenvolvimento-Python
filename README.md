@@ -14,15 +14,19 @@
 
 - Aula 04: Na nossa última aula, vamos conhecer os comandos básicos do prompt de comando (CMD), criar o Ambiente Virtual e instalar pacotes através do pip. 
 
-### Dica de leitura:
+### Sugestões de leituras:
 
-- Aula 01:  Introdução - Dica: https://python.org.br/
+- Aula 01:  Introdução 
 
-- Aula 02: Instalação do Python 3 - Tarefas no repositório.
+ Site Oficial -> https://python.org.br/
+
+- Aula 02: Instalação do Python 3
+
+Tarefas no repositório
 
 Instalação -> https://www.python.org/downloads/windows/
 
-- Aula 03: Biblioteca Padrão;
+- Aula 03: Biblioteca Padrão
 
 Python/Bibliotecas padrão -> https://pt.wikibooks.org/wiki/Python/Bibliotecas_padr%C3%A3o
 
@@ -30,7 +34,7 @@ A Biblioteca Padrão do Python -> https://docs.python.org/pt-br/3.7/library/
 
 Um breve passeio pela biblioteca padrão -> https://docs.python.org/pt-br/3/tutorial/stdlib.html
 
-- Aula 04: Ambientes Virtuais e Pacotes;
+- Aula 04: Ambientes Virtuais e Pacotes
 
 Ambiente Virtual: https://docs.python.org/pt-br/3/library/venv.html
 
